@@ -1,0 +1,14 @@
+{
+  "name": "skills-guide",
+  "description": "Claude Code のスキル一覧サイドパネル",
+  "owner": {
+    "name": "michihiro1966"
+  },
+  "plugins": [
+    {
+      "name": "skills-guide",
+      "source": "./",
+      "description": "インストールしたスキルの一覧と使い方メモをサイドパネルに表示します"
+    }
+  ]
+}

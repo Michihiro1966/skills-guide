@@ -1,0 +1,8 @@
+{
+  "name": "skills-guide",
+  "version": "0.1.0",
+  "description": "インストールしたスキルの一覧と使い方メモをサイドパネルに表示します",
+  "author": { "name": "michihiro1966" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
